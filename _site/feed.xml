@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-01-27T22:17:21-05:00</updated><id>http://localhost:4000//</id><title type="html">AI Links</title><subtitle>Repository of AI Links</subtitle><entry><title type="html">Hello Nn</title><link href="http://localhost:4000/Hello-NN/" rel="alternate" type="text/html" title="Hello Nn" /><published>2016-12-23T00:00:00-05:00</published><updated>2016-12-23T00:00:00-05:00</updated><id>http://localhost:4000/Hello-NN</id><content type="html" xml:base="http://localhost:4000/Hello-NN/">&lt;p&gt;https://www.youtube.com/watch?v=p69khggr1Jo &lt;br /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.4.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-01-27T22:35:24-05:00</updated><id>http://localhost:4000//</id><title type="html">AI Links</title><subtitle>Repository of AI Links</subtitle><entry><title type="html">Hello Nn</title><link href="http://localhost:4000/Hello-NN/" rel="alternate" type="text/html" title="Hello Nn" /><published>2016-12-23T00:00:00-05:00</published><updated>2016-12-23T00:00:00-05:00</updated><id>http://localhost:4000/Hello-NN</id><content type="html" xml:base="http://localhost:4000/Hello-NN/">&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/p69khggr1Jo?feature=oembed&amp;amp;wmode=opaque&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;
+            &lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#&quot;&gt;video&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;#&quot;&gt;openai&lt;/a&gt;&lt;/p&gt;</content><summary type="html">https://www.youtube.com/watch?v=p69khggr1Jo 
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;openai&lt;/a&gt;&lt;/p&gt;</content><summary type="html">video
 
-video
-
-openai</summary></entry><entry><title type="html">Hello Gradient Descent0</title><link href="http://localhost:4000/Hello-Gradient-Descent0/" rel="alternate" type="text/html" title="Hello Gradient Descent0" /><published>2016-12-22T00:00:00-05:00</published><updated>2016-12-22T00:00:00-05:00</updated><id>http://localhost:4000/Hello-Gradient-Descent0</id><content type="html" xml:base="http://localhost:4000/Hello-Gradient-Descent0/">&lt;p&gt;https://www.youtube.com/watch?v=XI-I9i_GzIw&amp;amp;t=170s &lt;br /&gt;&lt;/p&gt;
+openai</summary></entry><entry><title type="html">Hello Gradient Descent0</title><link href="http://localhost:4000/Hello-Gradient-Descent0/" rel="alternate" type="text/html" title="Hello Gradient Descent0" /><published>2016-12-22T00:00:00-05:00</published><updated>2016-12-22T00:00:00-05:00</updated><id>http://localhost:4000/Hello-Gradient-Descent0</id><content type="html" xml:base="http://localhost:4000/Hello-Gradient-Descent0/">&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/XI-I9i_GzIw?feature=oembed&amp;amp;wmode=opaque&amp;amp;start=170&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;
+            &lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#&quot;&gt;video&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;#&quot;&gt;openai&lt;/a&gt;&lt;/p&gt;</content><summary type="html">https://www.youtube.com/watch?v=XI-I9i_GzIw&amp;amp;t=170s 
-
-video
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;openai&lt;/a&gt;&lt;/p&gt;</content><summary type="html">video
 
 openai</summary></entry></feed>
